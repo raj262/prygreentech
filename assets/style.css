@@ -2859,7 +2859,7 @@ body {
 }
 
 .group:hover .group-hover\:text-primary-foreground {
-    color: hsl(var(--primary-foreground))
+    color: hsl(var(--primary-foreground))!important
 }
 
 .group\/menu-item:hover .group-hover\/menu-item\:opacity-100,
